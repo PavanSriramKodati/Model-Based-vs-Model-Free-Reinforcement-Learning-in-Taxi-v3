@@ -1,0 +1,6 @@
+gymnasium
+numpy
+pandas
+seaborn
+matplotlib
+tqdm
